@@ -1,0 +1,23 @@
+{
+  "name": "split-swagger-spec",
+  "version": "0.1.0",
+  "repository": "https://github.com/mhaqs/split-swagger-spec.git",
+  "private": true,
+  "devDependencies": {
+    "connect-livereload": "^0.5.3",
+    "serve-static":"1.10.2",
+    "grunt": "^0.4.5",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-connect": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-open": "^0.2.3",
+    "grunt-git": "^0.3.7",
+    "json-refs": "^2.1.5",
+    "js-yaml": "^3.5.2",
+    "sway": "^0.6.0"
+  },
+  "dependencies": {
+    "swagger-tools": "git+https://github.com/apigee-127/swagger-tools.git"
+  }
+}

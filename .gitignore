@@ -35,3 +35,22 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+# OSX stuff
+.DS_Store
+
+# Node stuff
+api-console
+npm-debug.log
+
+# IDE stuff
+*.sublime-workspace
+
+# Our generated HTML files
+site
+
+.idea/
+
+# Swagger stuff
+swagger-ui
+swagger-editor
